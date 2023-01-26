@@ -1,0 +1,19 @@
+.header{
+    background-color: aqua;
+    
+    ul li{
+        color: black;
+        list-style-type: none;
+        display: inline-block;
+        margin-right: 20px;
+        cursor: pointer;
+        font-size: 25px;
+    }
+
+    .header_content{
+        padding: 10px 80px;
+        max-width: 1024px;
+        margin: 0 auto;
+        text-align: center;
+    }
+}
